@@ -15,6 +15,6 @@ def fizzbuzz(int)
   end 
    fizzbuzz(3)
    
-   fizz(5)
+   fizzbuzz(5)
    
 
